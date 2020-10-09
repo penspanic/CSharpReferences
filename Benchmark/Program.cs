@@ -7,7 +7,8 @@ namespace Benchmark
     {
         static void Main(string[] args)
         {
-            BenchmarkRunner.Run<ConstructorBenchmark>();
+            //BenchmarkRunner.Run<ConstructorBenchmark>();
+            BenchmarkRunner.Run<GetMethodsBenchmark>();
         }
     }
 }
