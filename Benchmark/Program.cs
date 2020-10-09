@@ -1,6 +1,5 @@
 ﻿using System;
 using BenchmarkDotNet.Running;
-using CSharpTest;
 
 namespace Benchmark
 {

@@ -4,7 +4,7 @@ using System.Linq.Expressions;
 using System.Reflection;
 using BenchmarkDotNet.Attributes;
 
-namespace CSharpTest
+namespace Benchmark
 {
     public class ConstructorBenchmark
     {
